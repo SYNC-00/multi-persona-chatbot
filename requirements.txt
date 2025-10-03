@@ -4,3 +4,4 @@ pytesseract
 Pillow
 PyPDF2
 python-docx
+pdfplumber
