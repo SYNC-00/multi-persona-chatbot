@@ -1,4 +1,5 @@
 
+---
 title: Multi-Persona Chatbot
 emoji: 🤖
 colorFrom: blue
@@ -7,6 +8,7 @@ sdk: gradio
 sdk_version: "3.41.0"
 app_file: app.py
 pinned: false
+---
 
 
 # Multi-Persona Chatbot 🤖
