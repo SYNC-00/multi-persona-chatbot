@@ -33,6 +33,38 @@ This project is an interactive **AI-powered chatbot** that can switch between di
 - [OpenAI](https://openai.com/) for GPT responses.  
 - [pdfplumber](https://github.com/jsvine/pdfplumber) for PDFs.  
 - [python-docx](https://python-docx.readthedocs.io/) for Word documents.  
-- [pytesseract](https://github.com/madmaze/pytesseract) for OCR.  
+- [pytesseract](https://github.com/madmaze/pytesseract) for OCR.
+
+
+## 🚀 Live Demo
+👉 [Try the Chatbot Here](https://sync-x-multi-persona-chatbot.hf.space)
+
+## 💻 Source Code
+👉 [View on Hugging Face Repo](https://huggingface.co/spaces/Sync-x/multi-persona-chatbot)
+
+
+## 📸 Screenshots
+
+### Chatbot UI
+![Chatbot UI](assets/chatbot-UI.png)
+
+## Example Convo 1
+![Chatbot Demo](assets/chatbot-demo1.png)
+
+## Example Convo 2
+![Chatbot Demo](assets/chatbot-demo2.png)
+
+
+## ⚡ How to Run Locally
+```bash
+git clone https://huggingface.co/spaces/Sync-x/multi-persona-chatbot
+cd multi-persona-chatbot
+pip install -r requirements.txt
+python app.py
+
+
+
+
+
 
 ---
