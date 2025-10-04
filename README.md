@@ -1,6 +1,6 @@
 ---
 title: Multi-Persona Chatbot
-emoji: 🤖
+emoji: 📚
 colorFrom: blue
 colorTo: green
 sdk: gradio
@@ -8,6 +8,7 @@ sdk_version: 5.49.0
 app_file: app.py
 pinned: false
 license: mit
+short_description: Gradio powered AI Multi-Persona Chatbot
 ---
 
 # 🤖 Multi-Persona Chatbot
@@ -46,13 +47,14 @@ This project is an interactive **AI-powered chatbot** that can switch between di
 ## 📸 Screenshots
 
 ### Chatbot UI
-![Chatbot UI](assets/chatbot-UI.png)
+![Chatbot UI](https://cdn-uploads.huggingface.co/production/uploads/68dff9c53bfa557fe78da574/2IZLY5FCGf301UKJwru2P.png)
 
 ## Example Convo 1
-![Chatbot Demo](assets/chatbot-demo1.png)
+![Chatbot Demo](https://cdn-uploads.huggingface.co/production/uploads/68dff9c53bfa557fe78da574/POo_wL544GnLEjJcfgnFt.png)
+
 
 ## Example Convo 2
-![Chatbot Demo](assets/chatbot-demo2.png)
+![Chatbot Demo](https://cdn-uploads.huggingface.co/production/uploads/68dff9c53bfa557fe78da574/hEGwFi7mRYtfcbPMSfNIP.png)
 
 
 ## ⚡ How to Run Locally
@@ -61,10 +63,5 @@ git clone https://huggingface.co/spaces/Sync-x/multi-persona-chatbot
 cd multi-persona-chatbot
 pip install -r requirements.txt
 python app.py
-
-
-
-
-
 
 ---
