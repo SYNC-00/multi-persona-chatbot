@@ -41,7 +41,7 @@ This project is an interactive **AI-powered chatbot** that can switch between di
 👉 [Try the Chatbot Here](https://sync-x-multi-persona-chatbot.hf.space)
 
 ## 💻 Source Code
-👉 [View on Hugging Face Repo](https://huggingface.co/spaces/Sync-x/multi-persona-chatbot)
+👉 [View on Hugging Face Repo](https://huggingface.co/spaces/Sync-x/multi-persona-chatbot/tree/main)
 
 
 ## 📸 Screenshots
