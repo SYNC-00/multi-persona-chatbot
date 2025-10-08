@@ -37,7 +37,7 @@ This project is an interactive **AI-powered chatbot** that can switch between di
 - [pytesseract](https://github.com/madmaze/pytesseract) for OCR.
 
 
-## 🚀 Live Demo
+## 🚀 Live App
 👉 [Try the Chatbot Here](https://sync-x-multi-persona-chatbot.hf.space)
 
 ## 💻 Source Code
